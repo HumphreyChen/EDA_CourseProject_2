@@ -8,7 +8,6 @@
 * The detailed answers to the assignment questions are addressed in the R script files.
 
 
-
 ## Introduction
 
 Fine particulate matter (PM2.5) is an ambient air pollutant for which there is strong evidence that it is harmful to human health. 
