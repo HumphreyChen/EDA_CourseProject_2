@@ -1,4 +1,4 @@
-## Instruction of Submitted Files 
+## Instruction of Submitted Files  
 
 * Six functions, plot1, plot2, plot3, plot4, plot5, and plot6, are placed into six R script files. Six png files have also been pushed into the repository.
 * These functions read Date frmo the larget data set first. If they have been loaded in the workspace, the loading won't be executed to save time. 
